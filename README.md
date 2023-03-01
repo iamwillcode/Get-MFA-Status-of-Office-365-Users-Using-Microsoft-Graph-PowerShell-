@@ -10,7 +10,6 @@ Description:    This script exports O365 users MFA status report to CSV file
 Version:        1.0
 Website:        o365reports.com
 Script by:      O365Reports Team
-For detailed script execution: https://o365reports.com/2022/04/27/get-mfa-status-of-office-365-users-using-microsoft-graph-powershell
 ============================================================================================
 #>
 Param
